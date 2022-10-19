@@ -1,11 +1,11 @@
-<h1 align="center">Hello, Sailor! I'm Fraser</h1>
+<h1 align="center">Hello, Sailor! :anchor: I'm Fraser</h1>
 <h3 align="center">A deep learning, remote sensing and precipitation enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/frasertheking" target="blank"><img src="https://img.shields.io/twitter/follow/frasertheking?logo=twitter&style=for-the-badge" alt="frasertheking" /></a> </p>
 
 - 🔭 I’m currently working on [DeepPrecip](https://github.com/frasertheking/DeepPrecip)
 
-- 📝 I regularly write articles on [deep learning, radar and the environment](deep learning, radar and the environment)
+- 📝 I regularly write articles on deep learning, radar and the environment
 
 - 💬 Ask me about **machine learning in the geosciences**
 
