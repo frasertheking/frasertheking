@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kingfr@umich.edu**
 
-- 📄 Learn more about my work/research experiences [https://frasertheking.com](https://frasertheking.com)
+- 📄 Learn more about my work/research experiences [https://frasertheking.com/resume/cv.pdf](https://frasertheking.com/resume/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
