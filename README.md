@@ -3,15 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/frasertheking" target="blank"><img src="https://img.shields.io/twitter/follow/frasertheking?logo=twitter&style=for-the-badge" alt="frasertheking" /></a> </p>
 
-- 🔭 I’m currently working on [DeepPrecip](https://github.com/frasertheking/DeepPrecip)
+- ❄️ Currently working on [microphysical dimensionality reduction](https://github.com/frasertheking/snowfall_pca) using PCA, t-SNE, UMAP, AEs
 
-- 📝 I regularly write articles on deep learning, radar and the environment
+- 🔭 I'm very interested in ML applications for precipitation (i.e., [DeepPrecip](https://github.com/frasertheking/DeepPrecip), [BlindPaint](https://github.com/frasertheking/blindzone_inpainting)
+
+- 📝 I regularly write articles on deep learning, radar and the environment (see my [medium](https://medium.com/@frasertheking) profile on [towardsdatascience](https://towardsdatascience.com/))
 
 - 💬 Ask me about **machine learning in the geosciences**
 
-- 📫 How to reach me **fdmking@uwaterloo.ca**
+- 📫 How to reach me **kingfr@umich.edu**
 
-- 📄 Know about my experiences [http://frasertheking.com/resume/cv.pdf](http://frasertheking.com/resume/cv.pdf)
+- 📄 Learn more about my work/research experiences [https://frasertheking.com](https://frasertheking.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
