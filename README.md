@@ -5,7 +5,7 @@
 
 - ❄️ Currently working on [microphysical dimensionality reduction](https://github.com/frasertheking/snowfall_pca) using PCA, t-SNE, UMAP, AEs
 
-- 🔭 I'm very interested in ML applications for precipitation (i.e., [DeepPrecip](https://github.com/frasertheking/DeepPrecip), [BlindPaint](https://github.com/frasertheking/blindzone_inpainting)
+- 🔭 I'm very interested in ML applications for precipitation (i.e., [DeepPrecip](https://github.com/frasertheking/DeepPrecip), [BlindPaint](https://github.com/frasertheking/blindzone_inpainting))
 
 - 📝 I regularly write articles on deep learning, radar and the environment (see my [medium](https://medium.com/@frasertheking) profile on [towardsdatascience](https://towardsdatascience.com/))
 
