@@ -5,7 +5,7 @@
 
 - 🤖 Currently focused on model interpretability research in the Geosciences (i.e., do we know what our physical models are doing? Are they right for the right reasons?)
 
-- ❄️ Also working on [microphysical dimensionality reduction](https://github.com/frasertheking/snowfall_pca) using PCA, t-SNE, UMAP, AEs and density-based clustering
+- ❄️ Also working on [microphysical dimensionality reduction](https://github.com/frasertheking/snowfall_pca) using PCA, t-SNE, [UMAP](https://frasertheking.com/interactive/), AEs and density-based clustering
 
 - 🔭 I'm very interested in ML applications in the Geosciences (i.e., [DeepPrecip](https://github.com/frasertheking/DeepPrecip), [BlindPaint](https://github.com/frasertheking/blindzone_inpainting), [Bias Correction](https://github.com/frasertheking/RandomForestGeosciences))
 
