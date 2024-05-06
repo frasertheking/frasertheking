@@ -13,7 +13,7 @@
   
 - 📱 Supporter of citizen science projects and open data/science (e.g., [want to use your iPhone for snow depth measurements?](https://doi.org/10.1016/j.coldregions.2022.103757))
 
-- 🗺️ Amateur cartographer ([MapsByFraser](https://maps.frasertheking.com)
+- 🗺️ Amateur cartographer ([MapsByFraser](https://maps.frasertheking.com))
 
 - 💬 Ask me about **machine learning in the geosciences**
 
