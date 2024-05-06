@@ -7,7 +7,7 @@
 
 - ❄️ Also working on [microphysical dimensionality reduction](https://github.com/frasertheking/snowfall_pca) using PCA, t-SNE, UMAP, AEs and density-based clustering
 
-- 🔭 I'm very interested in ML applications in the Geosciences (i.e., [DeepPrecip](https://github.com/frasertheking/DeepPrecip), [BlindPaint](https://github.com/frasertheking/blindzone_inpainting))
+- 🔭 I'm very interested in ML applications in the Geosciences (i.e., [DeepPrecip](https://github.com/frasertheking/DeepPrecip), [BlindPaint](https://github.com/frasertheking/blindzone_inpainting), [Bias Correction](https://github.com/frasertheking/RandomForestGeosciences))
 
 - 📝 I regularly write articles on deep learning, remote sensing and the environment (see my [medium](https://medium.com/@frasertheking) profile on [towardsdatascience](https://towardsdatascience.com/))
   
