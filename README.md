@@ -3,13 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/frasertheking" target="blank"><img src="https://img.shields.io/twitter/follow/frasertheking?logo=twitter&style=for-the-badge" alt="frasertheking" /></a> </p>
 
-- ❄️ Currently working on [microphysical dimensionality reduction](https://github.com/frasertheking/snowfall_pca) using PCA, t-SNE, UMAP, AEs
+- 🤖 Currently focused on model interpretability research in the Geosciences (i.e., how do we know what our physical models are doing? Are they right for the right reasons?)
 
-- 🔭 I'm very interested in ML applications for precipitation (i.e., [DeepPrecip](https://github.com/frasertheking/DeepPrecip), [BlindPaint](https://github.com/frasertheking/blindzone_inpainting))
+- ❄️ Also working on [microphysical dimensionality reduction](https://github.com/frasertheking/snowfall_pca) using PCA, t-SNE, UMAP, AEs and density clustering
 
-- 📝 I regularly write articles on deep learning, radar and the environment (see my [medium](https://medium.com/@frasertheking) profile on [towardsdatascience](https://towardsdatascience.com/))
+- 🔭 I'm very interested in ML applications in the Geosciences (i.e., [DeepPrecip](https://github.com/frasertheking/DeepPrecip), [BlindPaint](https://github.com/frasertheking/blindzone_inpainting))
+
+- 📝 I regularly write articles on deep learning, remote sensing and the environment (see my [medium](https://medium.com/@frasertheking) profile on [towardsdatascience](https://towardsdatascience.com/))
   
 - 📱 Supporter of citizen science projects and open data/science (e.g., [want to use your iPhone for snow depth measurements?](https://doi.org/10.1016/j.coldregions.2022.103757))
+
+- 🗺️ Amateur cartographer ([MapsByFraser](https://maps.frasertheking.com)
 
 - 💬 Ask me about **machine learning in the geosciences**
 
