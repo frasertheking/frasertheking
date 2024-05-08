@@ -7,7 +7,7 @@
 
 - 🔭 I'm very interested in ML applications in the Geosciences (i.e., [DeepPrecip](https://github.com/frasertheking/DeepPrecip), [BlindPaint](https://github.com/frasertheking/blindzone_inpainting), [Bias Correction](https://github.com/frasertheking/RandomForestGeosciences))
 
-- 📝 I regularly write articles on deep learning, remote sensing and the environment (see my [medium](https://medium.com/@frasertheking) profile on [towardsdatascience](https://towardsdatascience.com/))
+- 📝 I write articles on deep learning, remote sensing and the environment (see my [medium](https://medium.com/@frasertheking) profile on [towardsdatascience](https://towardsdatascience.com/))
   
 - 📱 Supporter of citizen science projects and open data/science (e.g., [want to use your iPhone for snow depth measurements?](https://doi.org/10.1016/j.coldregions.2022.103757))
 
