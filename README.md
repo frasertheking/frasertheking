@@ -1,7 +1,7 @@
 <h1 align="center">Hi :wave: I'm Fraser</h1>
 <h3 align="center">A deep learning, remote sensing and precipitation enthusiast</h3>
 
-- 🤖 Currently focused on [model interpretability research in the Geosciences](https://frasertheking.com/presentations/mech_interpretability_geosciences.pdf) (i.e., do we know what our physical models are doing? Are they right for the right reasons?)
+- 🤖 Currently focused on [model interpretability research in the Geosciences](https://frasertheking.com/nn_app/) (i.e., do we know what our physical models are doing? Are they right for the right reasons?)
 
 - ❄️ Also working on [microphysical dimensionality reduction](https://github.com/frasertheking/snowfall_pca) using PCA, t-SNE, [UMAP](https://frasertheking.com/interactive/), AEs and density-based clustering
 
