@@ -15,7 +15,7 @@
 
 - 🗺️ Amateur cartographer ([MapsByFraser](https://maps.frasertheking.com))
 
-- 📫 How to reach me **kingfr@umich.edu**
+- 📫 How to reach me **fraser.king@wisc.edu**
 
 - 📄 Learn more about my work/research experiences [https://frasertheking.com/resume/cv.pdf](https://frasertheking.com/resume/cv.pdf)
 
